@@ -1,2 +1,1 @@
-Hello.
-I'm I programmer. I like to program.
+hello. i'm a coder. i like to code.
